@@ -4,29 +4,26 @@ project(Baekjoon)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Baekjoon
-#        1920.cpp
-#        DS.cpp
-#        5086.cpp
-#        9506.cpp
-#        1085.cpp
-#        3009.cpp
-#        11501.cpp
-#        11047.cpp
-#        2217.cpp
-#        1026.cpp
-#        11399.cpp
-#        2847.cpp
-#        1439.cpp
-#        1931.cpp
-#        15903.cpp
-#        1247.cpp
-#        15686.cpp
-#        2167.cpp
-#        1541.cpp
-#        1926.cpp
-#        2178.cpp
-#        2010.cpp
-#        7576.cpp
-        BOJ/1697.cpp
-        #        1149.cpp
+#        BOJ/bruteForce/1107.cpp
+#        BOJ/simulation/15662.cpp
+#        BOJ/greedy/2212.cpp
+#        BOJ/unclassified/1271.cpp
+#        BOJ/BFS&DFS/10026.cpp
+#        BOJ/BFS&DFS/7562.cpp
+#        BOJ/unclassified/2475.cpp
+#        BOJ/unclassified/2741.cpp
+#        BOJ/BFS&DFS/1012.cpp
+#        BOJ/dp/1256.cpp
+#        BOJ/greedy/11000.cpp
+#        BOJ/greedy/2170.cpp
+#        BOJ/dp/2293.cpp
+#        BOJ/dp/9251.cpp
+#        BOJ/greedy/1715.cpp
+#        BOJ/greedy/2457.cpp
+#        BOJ/BFS&DFS/7569.cpp
+        BOJ/BFS&DFS/16236.cpp
+#        BOJ/BFS&DFS/7569_notmine.cpp
+#        BOJ/dp/2011.cpp
+#        BOJ/BFS&DFS/1697.cpp
+
 )
