@@ -32,7 +32,9 @@ add_executable(Baekjoon
 #        BOJ/string/1100.cpp
 #        BOJ/bruteForce/1145.cpp
 #        BOJ/string/1159.cpp
-        BOJ/binarySearch/1654.cpp
+#        BOJ/binarySearch/1654.cpp
+#        BOJ/math/1010.cpp
+        BOJ/math/1094.cpp
         #        BOJ/greedy/2785.cpp
 #        BOJ/greedy/1789.cpp
         #        BOJ/BFS&DFS/7569_notmine.cpp
