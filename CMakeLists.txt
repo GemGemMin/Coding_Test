@@ -45,7 +45,8 @@ add_executable(Baekjoon
 #        BOJ/unclassified/7287.cpp
 #        BOJ/math/2609.cpp
 #        BOJ/binarySearch/1300.cpp
-        BOJ/unclassified/2920.cpp
+#        BOJ/unclassified/2920.cpp
+        BOJ/BFS&DFS/1260.cpp
         #        BOJ/greedy/2785.cpp
 #        BOJ/greedy/1789.cpp
         #        BOJ/BFS&DFS/7569_notmine.cpp
