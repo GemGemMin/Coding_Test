@@ -48,6 +48,10 @@ void DFS(int N, int start_node){
 
 
 int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
     int N, M, V;
     cin >> N >> M >> V;
     for (int i = 0; i < M; i++) {
