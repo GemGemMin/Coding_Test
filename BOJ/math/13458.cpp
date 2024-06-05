@@ -19,4 +19,4 @@ int main(){
         } else result += (A[i] / C);
     }
     cout << result;
-}
+}   

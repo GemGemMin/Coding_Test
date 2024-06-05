@@ -54,7 +54,8 @@ add_executable(Baekjoon
 #        BOJ/graph/1753.cpp
 #        BOJ/dataStructure/5430.cpp
 #        BOJ/dp/11053.cpp
-        BOJ/math/13458.cpp
+#        BOJ/math/13458.cpp
+        BOJ/math/1924.cpp
         #        BOJ/greedy/2785.cpp
 #        BOJ/greedy/1789.cpp
         #        BOJ/BFS&DFS/7569_notmine.cpp
